@@ -1,3 +1,8 @@
+"""
+This code uses Particle Swarm Optimization (PSO) to solve a Job Scheduling problem where tasks are assigned 
+to machines to minimize the total processing time (makespan).
+"""
+
 import random
 
 # --------- Problem Definition ---------
