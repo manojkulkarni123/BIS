@@ -76,4 +76,3 @@ plt.title("Final Server Load Distribution")
 plt.colorbar(label='CPU Load (%)')
 plt.show()
 
-explain this in detail 
